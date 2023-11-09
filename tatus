@@ -1,0 +1,179 @@
+[33mcommit 650fe5beeb50784bba23b6439844250857088157[m[33m ([m[1;36mHEAD -> [m[1;32mexperimento[m[33m)[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 11:54:09 2023 -0300
+
+    actualización perfil
+
+[33mcommit e7d40c14ef28e32c12773b6f5ad304ae4a74e389[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 11:41:24 2023 -0300
+
+    se agregó la historia de perfil
+
+[33mcommit b5e69989d0ec67dc42a24d1df23cf00f3ce10904[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 10:03:09 2023 -0300
+
+    Retoque final al README
+
+[33mcommit f1ca4ada3e5d74dd947287c466e652fc240bb0c5[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 10:01:02 2023 -0300
+
+    Retoque al README
+
+[33mcommit 3b33034a73bbb99ea1dafa96bedc6ad90dc1838f[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 09:57:56 2023 -0300
+
+    README version final
+
+[33mcommit ee34ce5b6683031912a25db143a587ae56b8a159[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 09:55:29 2023 -0300
+
+    Versión final
+
+[33mcommit 1ce7c79da11491e48931b43aa6c046c745a67c9e[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 09:47:34 2023 -0300
+
+    Readme modificación final
+
+[33mcommit 1b5869e5e9194e6005890e6a517e0885da534764[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 09:43:17 2023 -0300
+
+    Readme modificado
+
+[33mcommit cf73159eaebbd0f7d56915784381ceb008cec187[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 09:38:08 2023 -0300
+
+    README modificado para explicare el proyecto a futuros estudiantes
+
+[33mcommit 87d494c43a7f44accfc41e1b47d97ea8ab87e857[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Thu Nov 9 09:00:33 2023 -0300
+
+    Agregue una imagen al blog
+
+[33mcommit 28f4382390973636692d452efc838d20fe382116[m
+Merge: 8b67f65 460c8b9
+Author: Jafet-Alvaro <150266480+Jafet-Alvaro@users.noreply.github.com>
+Date:   Wed Nov 8 23:34:38 2023 -0300
+
+    Merge pull request #1 from Jafet-Alvaro/fix-typo
+    
+    Tildes y typos arreglados en el post
+
+[33mcommit 460c8b93096a9a075295e7d0c264aa9dd206ddf3[m[33m ([m[1;31morigin/fix-typo[m[33m, [m[1;32mfix-typo[m[33m)[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Wed Nov 8 23:19:19 2023 -0300
+
+    Tildes y typos arreglados en el post
+
+[33mcommit 8b67f6561bc2036070489ca502f7288041a52bdc[m[33m ([m[1;31morigin/header[m[33m, [m[1;32mheader[m[33m)[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Wed Nov 8 21:36:42 2023 -0300
+
+    Color de header mejorado
+
+[33mcommit c1511a3bcf4a101c8e9408af5a15a73c7950258d[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Wed Nov 8 21:30:10 2023 -0300
+
+    Color de fondo, logo nuevo y mejor color de header
+
+[33mcommit d42add505ab9d2c24238ba254ec2739f00540fa5[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Wed Nov 8 20:37:35 2023 -0300
+
+    logo del header
+
+[33mcommit b1c7ced9204abadd2eb728bda0770c90c282dbd6[m
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Wed Nov 8 19:30:30 2023 -0300
+
+    Una version del hyperblog
+
+[33mcommit baddb92f1c395a61a7a2de491527ad3bb1d6e9f8[m
+Author: Jafet-Alvaro <150266480+Jafet-Alvaro@users.noreply.github.com>
+Date:   Wed Nov 8 19:20:44 2023 -0300
+
+    Cambie el titulo del blogpost
+
+[33mcommit 9a24feb85bf452838b79963facbf817a9d4f8f25[m
+Merge: 5408e4e a2be81d
+Author: Alvaro Antonio <alvaro.antonio1290@gmail.com>
+Date:   Wed Nov 8 19:11:14 2023 -0300
+
+    Merge branch 'main' of github.com:Jafet-Alvaro/hyperblog
+
+[33mcommit a2be81de94a025029024cb8e9a3f79fe94900a5f[m
+Author: Jafet-Alvaro <150266480+Jafet-Alvaro@users.noreply.github.com>
+Date:   Wed Nov 8 18:51:15 2023 -0300
+
+    Initial commit
+
+[33mcommit 5408e4ebb62f039d8bfb402699c95d2ebcedd639[m
+Merge: 2d1e8f1 3490d5b
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 14:07:13 2023 -0300
+
+    Solucione el conflicto de las ramas al fusionar
+
+[33mcommit 2d1e8f1f23f0cec1c317417829f2325f6fd1f8cf[m
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 13:59:25 2023 -0300
+
+    Agregue suscripcion, cambie la cabecera maestra y puse todo azul
+
+[33mcommit 3490d5b8da01eb375e696719246ed310d487a359[m[33m ([m[1;31morigin/cabecera[m[33m, [m[1;32mcabecera[m[33m)[m
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 13:57:04 2023 -0300
+
+    Modifique la cabecera y el color del texto
+
+[33mcommit 106c524efae51d3b71ed8b1fc19fd2ef08e82290[m
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 13:46:17 2023 -0300
+
+    Volvi a una tipografia menos controversial
+
+[33mcommit 4628a069e2e9f2f55e9aca47b6d8af8f37e4232a[m
+Merge: 452b0b6 f1556f3
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 13:43:54 2023 -0300
+
+    Merge branch 'cabecera'
+
+[33mcommit 452b0b6909d425fde3617f1f74bc1941758b6c19[m
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 13:41:33 2023 -0300
+
+    Agregado adicional del blog y una mejor tipografia
+
+[33mcommit f1556f3304fff3f3506c34e38c90933cd1e29db3[m
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 13:38:56 2023 -0300
+
+    Finalizada la cabecera con diseño azul
+
+[33mcommit d1408d22278f7c400cc28784511a20dd8622b39e[m
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 13:27:31 2023 -0300
+
+    Estructura inicial de la cabecera
+
+[33mcommit b800b7fa1c3266b1e33abdc94c11bbc3a32da4ae[m
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 13:23:13 2023 -0300
+
+    commit al master del blogpost en su version mas reciente
+
+[33mcommit 666be67a8eeb27bac391095584c321042152cf95[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: Alvaro Antonio <alvaro.antonio@gmail.com>
+Date:   Wed Nov 8 13:08:36 2023 -0300
+
+    Arranco mi proyecto real con html y css
