@@ -1,6 +1,5 @@
 # **Hyperblog**
-------------
-:tw-1f4c1: :tw-1f4c2:
+:tw-1f4c1:  :tw-1f4c2:
 Un blog ejemplo para el Curso Profesional de Git y GitHub de Platzi
 ------------
 ### Un curso muy completo donde se aprende:
@@ -8,11 +7,9 @@ Un blog ejemplo para el Curso Profesional de Git y GitHub de Platzi
 - El flujo de trabajo en GitHub
 - Buenas prácticas
 - Trucos y tips para facilitar el trabajo
-
 ------------
 
 Con el curso estarás completamente listo para crear y colaborar en todo tipo de proyectos de tu interés, de manera ágil y fluída.
-
 ------------
 # Hyperblog :tw-1f4bb:
 This is a blog example for the course Curso Profesional de Git y GitHub de Platzi
